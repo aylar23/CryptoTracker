@@ -21,6 +21,12 @@ CryptoTracker is a feature-rich cryptocurrency tracking application designed for
 - **Ktor**: Handles API requests and responses efficiently.  
 - **Koin**: A lightweight dependency injection framework for modular architecture.  
 
+<img src="images/3.png" width="260">  <img src="images/4.png" width="260"> 
+
+## Large screen
+
+<img src="images/1.png" width="400"> <img src="images/2.png" width="400">
+
 ## 💡 How to Use  
 1. Clone the repository:  
    ```bash  
